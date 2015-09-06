@@ -25,7 +25,7 @@ nconf.formats.yaml = require('nconf-yaml')
 
 // and then you can do
 
-nconf.file({ file: '/path/to/some/file.yaml', format: 'yaml' })
+nconf.file({ file: '/path/to/some/file.yaml', format: nconf.formats.yaml })
 ```
 
 ## Install
