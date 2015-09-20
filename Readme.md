@@ -1,5 +1,6 @@
-# nconf-yaml <sup>[![Version Badge](http://vb.teelaun.ch/tellnes/nconf-yaml.svg)](https://npmjs.org/package/nconf-yaml)</sup>
+# nconf-yaml
 
+[![Version Badge](https://img.shields.io/npm/v/nconf-yaml.svg)](https://npmjs.org/package/nconf-yaml)
 [![Dependency Status](https://david-dm.org/tellnes/nconf-yaml.png)](https://david-dm.org/tellnes/nconf-yaml)
 [![Tips](https://img.shields.io/gratipay/tellnes.svg)](https://gratipay.com/tellnes/)
 
