@@ -1,8 +1,6 @@
 # nconf-yaml
 
-[![Version Badge](https://img.shields.io/npm/v/nconf-yaml.svg)](https://npmjs.org/package/nconf-yaml)
-[![Dependency Status](https://david-dm.org/tellnes/nconf-yaml.png)](https://david-dm.org/tellnes/nconf-yaml)
-[![Tips](https://img.shields.io/gratipay/tellnes.svg)](https://gratipay.com/tellnes/)
+[![Version npm](https://img.shields.io/npm/v/nconf-yaml.svg?style=flat-square)](https://www.npmjs.com/package/nconf-yaml)[![npm Downloads](https://img.shields.io/npm/dm/nconf-yaml.svg?style=flat-square)](https://www.npmjs.com/package/nconf-yaml)[![Dependencies](https://img.shields.io/david/tellnes/nconf-yaml.svg?style=flat-square)](https://david-dm.org/tellnes/nconf-yaml)[![Tips](http://img.shields.io/gratipay/tellnes.png?style=flat-square)](https://gratipay.com/~tellnes/)
 
 YAML format plugin for [nconf](https://www.npmjs.org/package/nconf)
 
