@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "description": "YAML format plugin for nconf",
   "dependencies": {
-    "js-yaml": "^3.2.3"
+    "js-yaml": "^3.5.2"
   },
   "peerDependencies": {
     "nconf": "*"
