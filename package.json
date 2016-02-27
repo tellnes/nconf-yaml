@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tellnes/nconf-yaml.git"
+    "url": "git+https://github.com/tellnes/nconf-yaml.git"
   },
   "author": "Christian Tellnes <christian@tellnes.no> (http://christian.tellnes.com/)",
   "license": "MIT",
@@ -20,5 +20,17 @@
   "homepage": "https://github.com/tellnes/nconf-yaml",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
-  }
+  },
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test/simple.js"
+  },
+  "keywords": [
+    "nconf",
+    "yaml"
+  ]
 }
